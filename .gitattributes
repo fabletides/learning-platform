@@ -1,0 +1,4 @@
+mvp** filter=lfs diff=lfs merge=lfs -text
+fastapiback/** filter=lfs diff=lfs merge=lfs -text
+student/** filter=lfs diff=lfs merge=lfs -text
+teacher/** filter=lfs diff=lfs merge=lfs -text
